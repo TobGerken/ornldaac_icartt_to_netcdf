@@ -5,7 +5,7 @@
 **Requirements:** Python 3
 
 * `numpy`: https://numpy.org/
-* `pandas`: https://pandas.pydata.org/
+* `pandas` (v0.24.0 or newer): https://pandas.pydata.org/
 * `netCDF4`: https://unidata.github.io/netcdf4-python/netCDF4/index.html
 * `pyyaml`: YAML file parser for the config: https://pypi.org/project/PyYAML/
 
